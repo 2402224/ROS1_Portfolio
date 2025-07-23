@@ -21,7 +21,7 @@ The signs guide flow and decision-making.
 The plants and flowers simulate a public space atmosphere and environmental system.
 By modeling it this way, we were able to visualize and test how each part interacts in a controlled setting.
 
-4.** Integrating and Implementing the System**
+4.**Integrating and Implementing the System**
 
 Then we focused on bringing all these parts together into a single, functional system. The paths, signage, central structure, and figures were arranged carefully so they don’t just exist on their own — they work as a whole. For instance, the signs aren’t just placed randomly; they’re oriented based on the expected human movement or robot navigation flow.
 
